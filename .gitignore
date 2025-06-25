@@ -1,0 +1,5 @@
+# Ignore all .log files in logs/ except the sample
+logs/*
+!logs/dns_queries.log
+
+__pycache__/
