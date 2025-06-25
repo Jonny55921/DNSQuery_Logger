@@ -1,0 +1,12 @@
+// Description: This file contains a log of DNS queries made by the system.
+// Each entry includes a timestamp and the domain that was queried.
+--------------------------------------------------------------------------
+// Examples:
+
+2025-06-25 18:29:40 - Queried Domain: www.example.com.
+
+2025-06-25 18:29:44 - Queried Domain: play.google.com.
+
+2025-06-25 18:29:50 - Queried Domain: www.kali.org.
+
+--------------------------------------------------------------------------
